@@ -5,10 +5,7 @@
 
 This repository contains the implementation of a **Synthetic Aperture Radar (SAR) image colorization model** using a **UNet2DModel**. The model transforms grayscale SAR images into their optical (colorized) counterparts, enhancing the interpretability of SAR data for various applications such as remote sensing and environmental monitoring.
 
-<p align="center">
-  ![Screenshot 2024-11-17 193920](https://github.com/user-attachments/assets/febd39bc-a22f-4be3-8630-1b75294579d0)
-
-</p>
+![Screenshot 2024-11-17 193920](https://github.com/user-attachments/assets/dc1b830a-1276-458e-aabf-4615723e0a77)
 
 ---
 
